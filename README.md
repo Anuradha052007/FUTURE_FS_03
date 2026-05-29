@@ -13,7 +13,6 @@ This website helps the business grow by improving online visibility, attracting 
 * Responsive Design
 * Animated Hero Section
 * Food Menu Cards
-* Gallery Section
 * Customer Reviews
 * Table Booking Form
 * Contact Information
